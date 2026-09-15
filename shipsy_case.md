@@ -1,6 +1,6 @@
 # The hub is eating the day
 
-*Shipsy Senior Product Exercise — Case 01*
+*Shipsy Senior PM — Case study*
 
 ## Assumptions
 
